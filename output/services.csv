@@ -1,0 +1,268 @@
+service_id,service_request_id,service_category,service_type,function
+1,1,Category 1,Data Transmission and/or Internet Access,Standalone Data Transmission Service
+2,1,Category 2,Internal Connections,Wireless Access Points and Necessary Software and Licenses
+3,1,Category 1,Data Transmission and/or Internet Access,Internet Access and Data Transmission Service
+4,,,,
+5,1,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+6,4,Category 2,Basic Maintenance of Internal Connections,"Antennas, Connectors, and Related Components"
+7,3,Category 1,Data Transmission and/or Internet Access,Category One Network Equipment
+8,2,Category 2,Internal Connections,Wireless Access Points and Necessary Software and Licenses
+9,6,Category 2,Basic Maintenance of Internal Connections,Switches
+10,1,Category 1,Data Transmission and/or Internet Access,Cellular Data Plan/Air Card Service
+11,2,Category 2,Basic Maintenance of Internal Connections,Cabling
+12,4,Category 2,Managed Internal Broadband Services,Existing Equipment
+13,3,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+14,1,Category 2,Internal Connections,Cabling
+15,2,Category 2,Basic Maintenance of Internal Connections,Switches
+16,5,Category 2,Basic Maintenance of Internal Connections,"Antennas, Connectors, and Related Components"
+17,2,Category 1,Data Transmission and/or Internet Access,Standalone Data Transmission Service
+18,1,Category 2,Internal Connections,"Firewall Service, Components, and Necessary Software and Licenses"
+19,1,Category 2,Basic Maintenance of Internal Connections,Firewall Service and Components
+20,9,Category 2,Internal Connections,Racks
+21,3,Category 1,Data Transmission and/or Internet Access,Standalone Data Transmission Service
+22,4,Category 2,Basic Maintenance of Internal Connections,Switches
+23,1,Category 2,Basic Maintenance of Internal Connections,Switches
+24,1,Category 2,Internal Connections,Wireless Controllers and Necessary Software and Licenses
+25,1,Category 2,Managed Internal Broadband Services,Existing Equipment
+26,1,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+27,6,Category 2,Basic Maintenance of Internal Connections,"Antennas, Connectors, and Related Components"
+28,2,Category 1,Data Transmission and/or Internet Access,Leased Dark Fiber
+29,1,Category 1,Data Transmission and/or Internet Access,Category One Maintenance and Operations
+30,3,Category 2,Managed Internal Broadband Services,Existing Equipment
+31,3,Category 1,Data Transmission and/or Internet Access,Category One Maintenance and Operations
+32,1,Category 2,Managed Internal Broadband Services,Leased Equipment
+33,1,Category 1,Data Transmission and/or Internet Access,Mobile Service For Use On School Buses
+34,1,Category 1,Data Transmission and/or Internet Access,Standalone Internet Access Service
+35,1,Category 1,Data Transmission and/or Internet Access,Leased Dark Fiber
+36,6,Category 2,Basic Maintenance of Internal Connections,Cabling
+37,1,Category 1,Data Transmission and/or Internet Access,Self-Provisioned Network (Applicant Owned and Operated Network)
+38,1,Category 2,Internal Connections,Caching and Necessary Software and Licenses
+39,18,Category 2,Basic Maintenance of Internal Connections,Cabling
+40,3,Category 2,Internal Connections,Cabling
+41,4,Category 2,Managed Internal Broadband Services,Leased Equipment
+42,2,Category 2,Basic Maintenance of Internal Connections,Firewall Service and Components
+43,1,Category 2,Internal Connections,Routers and Necessary Software and Licenses
+44,1,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+45,1,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+46,5,Category 1,Data Transmission and/or Internet Access,Category One Maintenance and Operations
+47,2,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+48,11,Category 2,Managed Internal Broadband Services,Existing Equipment
+49,3,Category 1,Data Transmission and/or Internet Access,Leased Lit Fiber
+50,7,Category 2,Internal Connections,Routers and Necessary Software and Licenses
+51,2,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+52,4,Category 2,Basic Maintenance of Internal Connections,Cabling
+53,5,Category 2,Internal Connections,Cabling
+54,3,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+55,1,Category 1,Data Transmission and/or Internet Access,Category One Network Equipment
+56,9,Category 2,Managed Internal Broadband Services,Existing Equipment
+57,7,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+58,2,Category 2,Internal Connections,Cabling
+59,4,Category 2,Internal Connections,Wireless Controllers and Necessary Software and Licenses
+60,1,Category 2,Basic Maintenance of Internal Connections,Routers
+61,6,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+62,5,Category 1,Data Transmission and/or Internet Access,Internet Access and Data Transmission Service
+63,3,Category 2,Internal Connections,Wireless Access Points and Necessary Software and Licenses
+64,2,Category 2,Basic Maintenance of Internal Connections,Routers
+65,2,Category 1,Data Transmission and/or Internet Access,Category One Network Equipment
+66,2,Category 1,Data Transmission and/or Internet Access,Services Provided Over Third-Party Networks
+67,4,Category 1,Data Transmission and/or Internet Access,Leased Lit Fiber
+68,2,Category 1,Data Transmission and/or Internet Access,Internet Access and Data Transmission Service
+69,1,Category 2,Internal Connections,Racks
+70,2,Category 1,Data Transmission and/or Internet Access,Category One Maintenance and Operations
+71,7,Category 2,Internal Connections,Cabling
+72,3,Category 1,Data Transmission and/or Internet Access,Leased Dark Fiber
+73,3,Category 2,Internal Connections,Routers and Necessary Software and Licenses
+74,5,Category 2,Managed Internal Broadband Services,Existing Equipment
+75,1,Category 2,Basic Maintenance of Internal Connections,"Antennas, Connectors, and Related Components"
+76,2,Category 2,Internal Connections,Routers and Necessary Software and Licenses
+77,5,Category 2,Internal Connections,Racks
+78,5,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+79,3,Category 1,Data Transmission and/or Internet Access,Internet Access and Data Transmission Service
+80,3,Category 2,Basic Maintenance of Internal Connections,Firewall Service and Components
+81,10,Category 2,Basic Maintenance of Internal Connections,Cabling
+82,7,Category 2,Basic Maintenance of Internal Connections,Cabling
+83,2,Category 1,Data Transmission and/or Internet Access,Standalone Internet Access Service
+84,5,Category 1,Data Transmission and/or Internet Access,Services Provided Over Third-Party Networks
+85,3,Category 2,Internal Connections,"Firewall Service, Components, and Necessary Software and Licenses"
+86,3,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+87,7,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+88,2,Category 1,Data Transmission and/or Internet Access,Leased Lit Fiber
+89,2,Category 2,Managed Internal Broadband Services,Leased Equipment
+90,2,Category 2,Internal Connections,"Firewall Service, Components, and Necessary Software and Licenses"
+91,7,Category 2,Basic Maintenance of Internal Connections,Switches
+92,3,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+93,4,Category 2,Basic Maintenance of Internal Connections,Wireless Controllers
+94,5,Category 1,Data Transmission and/or Internet Access,Leased Lit Fiber
+95,20,Category 2,Basic Maintenance of Internal Connections,Switches
+96,2,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+97,11,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+98,3,Category 2,Internal Connections,Racks
+99,2,Category 2,Basic Maintenance of Internal Connections,Wireless Controllers
+100,5,Category 2,Managed Internal Broadband Services,Leased Equipment
+101,4,Category 2,Internal Connections,Wireless Access Points and Necessary Software and Licenses
+102,4,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+103,8,Category 2,Basic Maintenance of Internal Connections,Cabling
+104,5,Category 2,Basic Maintenance of Internal Connections,Switches
+105,5,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+106,7,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+107,8,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+108,2,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+109,7,Category 2,Managed Internal Broadband Services,Existing Equipment
+110,4,Category 1,Data Transmission and/or Internet Access,Internet Access and Data Transmission Service
+111,4,Category 2,Internal Connections,Cabling
+112,4,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+113,3,Category 2,Basic Maintenance of Internal Connections,Switches
+114,5,Category 2,Internal Connections,"Firewall Service, Components, and Necessary Software and Licenses"
+115,2,Category 2,Managed Internal Broadband Services,Existing Equipment
+116,8,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+117,2,Category 2,Internal Connections,Racks
+118,4,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+119,8,Category 2,Basic Maintenance of Internal Connections,"Antennas, Connectors, and Related Components"
+120,3,Category 2,Basic Maintenance of Internal Connections,Caching
+121,4,Category 2,Basic Maintenance of Internal Connections,Racks
+122,9,Category 1,Data Transmission and/or Internet Access,Services Provided Over Third-Party Networks
+123,4,Category 1,Data Transmission and/or Internet Access,Category One Maintenance and Operations
+124,11,Category 2,Internal Connections,Cabling
+125,9,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+126,10,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+127,8,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+128,4,Category 1,Data Transmission and/or Internet Access,Category One Network Equipment
+129,9,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+130,4,Category 2,Basic Maintenance of Internal Connections,Routers
+131,2,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+132,6,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+133,3,Category 2,Internal Connections,Wireless Controllers and Necessary Software and Licenses
+134,2,Category 2,Basic Maintenance of Internal Connections,Racks
+135,4,Category 2,Internal Connections,Racks
+136,6,Category 2,Internal Connections,Racks
+137,20,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+138,7,Category 2,Internal Connections,Wireless Access Points and Necessary Software and Licenses
+139,9,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+140,11,Category 2,Internal Connections,Racks
+141,2,Category 2,Basic Maintenance of Internal Connections,Caching
+142,15,Category 2,Internal Connections,Racks
+143,10,Category 2,Internal Connections,Racks
+144,20,Category 2,Internal Connections,Wireless Controllers and Necessary Software and Licenses
+145,5,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+146,2,Category 2,Basic Maintenance of Internal Connections,"Antennas, Connectors, and Related Components"
+147,4,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+148,3,Category 2,Managed Internal Broadband Services,Leased Equipment
+149,5,Category 2,Internal Connections,Wireless Access Points and Necessary Software and Licenses
+150,10,Category 2,Internal Connections,Cabling
+151,9,Category 2,Basic Maintenance of Internal Connections,Wireless Controllers
+152,7,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+153,12,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+154,5,Category 2,Basic Maintenance of Internal Connections,Cabling
+155,6,Category 2,Managed Internal Broadband Services,Existing Equipment
+156,6,Category 2,Internal Connections,Wireless Access Points and Necessary Software and Licenses
+157,7,Category 2,Internal Connections,Wireless Controllers and Necessary Software and Licenses
+158,10,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+159,5,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+160,5,Category 2,Basic Maintenance of Internal Connections,Firewall Service and Components
+161,1,Category 2,Basic Maintenance of Internal Connections,Wireless Controllers
+162,10,Category 2,Basic Maintenance of Internal Connections,Firewall Service and Components
+163,6,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+164,4,Category 2,Internal Connections,"Firewall Service, Components, and Necessary Software and Licenses"
+165,5,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+166,7,Category 2,Basic Maintenance of Internal Connections,Firewall Service and Components
+167,4,Category 2,Basic Maintenance of Internal Connections,Firewall Service and Components
+168,1,Category 2,Basic Maintenance of Internal Connections,Cabling
+169,3,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+170,8,Category 2,Basic Maintenance of Internal Connections,Switches
+171,6,Category 2,Basic Maintenance of Internal Connections,Wireless Controllers
+172,7,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+173,5,Category 2,Basic Maintenance of Internal Connections,Wireless Controllers
+174,7,Category 2,Basic Maintenance of Internal Connections,Racks
+175,7,Category 2,Basic Maintenance of Internal Connections,Wireless Controllers
+176,13,Category 2,Internal Connections,Cabling
+177,3,Category 1,Data Transmission and/or Internet Access,Standalone Internet Access Service
+178,6,Category 2,Internal Connections,"Firewall Service, Components, and Necessary Software and Licenses"
+179,3,Category 2,Basic Maintenance of Internal Connections,Cabling
+180,2,Category 2,Internal Connections,Wireless Controllers and Necessary Software and Licenses
+181,6,Category 2,Internal Connections,Cabling
+182,4,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+183,4,Category 2,Basic Maintenance of Internal Connections,Caching
+184,6,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+185,6,Category 2,Basic Maintenance of Internal Connections,Routers
+186,4,Category 1,Data Transmission and/or Internet Access,Leased Dark Fiber
+187,8,Category 2,Internal Connections,Wireless Controllers and Necessary Software and Licenses
+188,10,Category 2,Internal Connections,Caching and Necessary Software and Licenses
+189,1,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+190,6,Category 2,Basic Maintenance of Internal Connections,Firewall Service and Components
+191,2,Category 1,Data Transmission and/or Internet Access,Cellular Data Plan/Air Card Service
+192,13,Category 2,Basic Maintenance of Internal Connections,Routers
+193,8,Category 2,Basic Maintenance of Internal Connections,Wireless Controllers
+194,10,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+195,6,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+196,7,Category 2,Basic Maintenance of Internal Connections,Caching
+197,4,Category 1,Data Transmission and/or Internet Access,Standalone Data Transmission Service
+198,13,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+199,18,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+200,6,Category 2,Managed Internal Broadband Services,Leased Equipment
+201,9,Category 2,Basic Maintenance of Internal Connections,Uninterruptable Power Supply/Battery Backup
+202,3,Category 2,Internal Connections,Caching and Necessary Software and Licenses
+203,7,Category 2,Internal Connections,"Firewall Service, Components, and Necessary Software and Licenses"
+204,6,Category 2,Internal Connections,Routers and Necessary Software and Licenses
+205,13,Category 2,Basic Maintenance of Internal Connections,Caching
+206,9,Category 2,Internal Connections,"Firewall Service, Components, and Necessary Software and Licenses"
+207,17,Category 2,Basic Maintenance of Internal Connections,Wireless Controllers
+208,9,Category 2,Basic Maintenance of Internal Connections,Caching
+209,1,Category 2,Basic Maintenance of Internal Connections,Caching
+210,10,Category 2,Managed Internal Broadband Services,Leased Equipment
+211,17,Category 2,Basic Maintenance of Internal Connections,Routers
+212,5,Category 2,Internal Connections,Wireless Controllers and Necessary Software and Licenses
+213,8,Category 2,Internal Connections,Routers and Necessary Software and Licenses
+214,8,Category 2,Internal Connections,Cabling
+215,8,Category 2,Basic Maintenance of Internal Connections,Racks
+216,10,Category 2,Basic Maintenance of Internal Connections,Routers
+217,12,Category 2,Internal Connections,Racks
+218,4,Category 1,Data Transmission and/or Internet Access,Services Provided Over Third-Party Networks
+219,5,Category 2,Basic Maintenance of Internal Connections,Routers
+220,2,Category 2,Internal Connections,Caching and Necessary Software and Licenses
+221,7,Category 2,Internal Connections,Caching and Necessary Software and Licenses
+222,6,Category 2,Internal Connections,Caching and Necessary Software and Licenses
+223,3,Category 2,Basic Maintenance of Internal Connections,Routers
+224,8,Category 2,Internal Connections,Wireless Access Points and Necessary Software and Licenses
+225,3,Category 2,Basic Maintenance of Internal Connections,"Antennas, Connectors, and Related Components"
+226,5,Category 1,Data Transmission and/or Internet Access,Category One Network Equipment
+227,6,Category 2,Internal Connections,Wireless Controllers and Necessary Software and Licenses
+228,7,Category 2,Basic Maintenance of Internal Connections,Routers
+229,8,Category 2,Basic Maintenance of Internal Connections,Firewall Service and Components
+230,9,Category 2,Basic Maintenance of Internal Connections,Routers
+231,5,Category 1,Data Transmission and/or Internet Access,Standalone Internet Access Service
+232,10,Category 2,Internal Connections,Wireless Access Points and Necessary Software and Licenses
+233,1,Category 2,Basic Maintenance of Internal Connections,Racks
+234,8,Category 2,Managed Internal Broadband Services,Leased Equipment
+235,24,Category 2,Internal Connections,Wireless Access Points and Necessary Software and Licenses
+236,9,Category 2,Internal Connections,Cabling
+237,3,Category 2,Basic Maintenance of Internal Connections,Wireless Controllers
+238,8,Category 2,Internal Connections,Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses
+239,14,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
+240,8,Category 2,Internal Connections,Racks
+241,10,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+242,5,Category 2,Internal Connections,Routers and Necessary Software and Licenses
+243,6,Category 2,Basic Maintenance of Internal Connections,Racks
+244,14,Category 2,Basic Maintenance of Internal Connections,Switches
+245,14,Category 2,Internal Connections,Cabling
+246,8,Category 2,Managed Internal Broadband Services,Existing Equipment
+247,13,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+248,11,Category 2,Basic Maintenance of Internal Connections,Cabling
+249,4,Category 2,Internal Connections,Caching and Necessary Software and Licenses
+250,7,Category 2,Internal Connections,Racks
+251,10,Category 2,Basic Maintenance of Internal Connections,Switches
+252,16,Category 2,Internal Connections,Cabling
+253,17,Category 2,Internal Connections,Racks
+254,6,Category 1,Data Transmission and/or Internet Access,Leased Lit Fiber
+255,34,Category 2,Basic Maintenance of Internal Connections,Switches
+256,11,Category 2,Basic Maintenance of Internal Connections,Racks
+257,18,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+258,9,Category 2,Internal Connections,Wireless Controllers and Necessary Software and Licenses
+259,12,Category 2,Basic Maintenance of Internal Connections,Routers
+260,11,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+261,9,Category 2,Internal Connections,Switches and Necessary Software and Licenses
+262,4,Category 2,Internal Connections,Routers and Necessary Software and Licenses
+263,12,Category 2,Internal Connections,Routers and Necessary Software and Licenses
+264,9,Category 2,Basic Maintenance of Internal Connections,Switches
+265,8,Category 2,Internal Connections,"Antennas, Connectors, and Related Components"
+266,8,Category 2,Basic Maintenance of Internal Connections,Caching
+267,12,Category 2,Basic Maintenance of Internal Connections,Wireless Access Points
